@@ -23,7 +23,7 @@ class WelcomeViewController: UIViewController {
                 self.titleLabel.text?.append(letter)
             }
             charIndex += 1
-           
+
         }
     }
     
